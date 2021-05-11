@@ -2,7 +2,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = "-";
-const token = "ODEyNDM4MDQyOTExODM0MTIy.YDAv4w.8b2cVWDdEv8Bxmx186E2io4HM1o";
+const token = "token";
 var cron = require('node-cron');
 
 
