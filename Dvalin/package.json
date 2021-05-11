@@ -1,0 +1,15 @@
+{
+  "name": "dvalin",
+  "version": "0.0.0",
+  "description": "Dvalin",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "moment-timezone": "^0.5.33",
+    "node-cron": "^3.0.0"
+  }
+}
